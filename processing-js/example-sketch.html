@@ -1,0 +1,25 @@
+/processing-js/example-sketch.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Memory Lines — Processing.js Example</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/processing.js/1.6.6/processing.min.js"></script>
+</head>
+<body>
+  <canvas id="mycanvas"></canvas>
+  <script type="application/processing">
+    void setup() {
+      size(500, 500);
+      background(22, 22, 22);
+      stroke(231, 209, 132);
+    }
+
+    void draw() {
+      float t = millis() * 0.001;
+      line(width/2 + sin(t)*200, height/2 + cos(t)*200,
+           width/2 + sin(t+PI)*200, height/2 + cos(t+PI)*200);
+    }
+  </script>
+</body>
+</html>

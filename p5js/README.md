@@ -1,4 +1,3 @@
-/processing-js/README.md
 # Processing.js Sketches
 
 This folder contains all my explorations, assignments, and experiments using [Processing.js](http://processingjs.org/).
