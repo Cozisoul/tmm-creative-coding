@@ -1,0 +1,38 @@
+{
+"coreIdentity": {
+  "fullName": "Thapelo Madiba Masebe",
+  "roles": ["Transdisciplinary Artist", "Researcher", "Systematic Thinker"],
+  "positioningStatement": "Practice at the intersection of data, memory, and emerging African identity. Translating unseen information into tangible, layered forms.",
+  "vision": "To map and archive the emotional/intellectual geographies of the modern African experience through art, research, and storytelling.",
+  "guidingPrinciples": [
+    {"motto": "Code is my brush, data is my paint.", "application": "Python and GLSL as expressive mediums."},
+    {"motto": "Exploring the universe, one dataset and one painting at a time.", "application": "Empirical and intuitive practices in feedback loop."}
+  ]
+},
+"courses": [
+  {
+    "title": "Processing.js: Creative Coding for Beginners",
+    "repoFolder": "processing-js",
+    "notes": "Documenting all sketches, experiments, and reflections."
+  },
+  {
+    "title": "p5.js: Generative Visuals and Interaction",
+    "repoFolder": "p5js",
+    "notes": "Highlighting connections between code and memory."
+  },
+  {
+    "title": "Domestika: Making Visuals with JavaScript",
+    "repoFolder": "domestika-visuals",
+    "notes": "Experimentation with color, rhythm, and narrative."
+  }
+],
+"branding": {
+  "primaryFont": "Space Grotesk",
+  "colorScheme": {
+    "background": "#161616",
+    "primary": "#E7D184",
+    "accent": "#1B75BC",
+    "text": "#F7F7F7"
+  }
+}
+}
