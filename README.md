@@ -24,7 +24,7 @@ Transdisciplinary artist, researcher, and systematic thinker at the intersection
 
 > *“Code is my brush, data is my paint.”*
 
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- [LinkedIn](https://www.linkedin.com/in/thapelo-masebe-733a67143/)
 - [Portfolio Site (coming soon)](https://github.com/Cozisoul/tmm-creative-coding)
 
 ---
