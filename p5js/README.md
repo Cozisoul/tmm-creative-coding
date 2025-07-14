@@ -1,6 +1,6 @@
-# Processing.js Sketches
+# p5.js Sketches
 
-This folder contains all my explorations, assignments, and experiments using [Processing.js](http://processingjs.org/).
+This folder contains all my explorations, assignments, and experiments using [p5.js](https://p5js.org/).
 
 ## How to Run
 
